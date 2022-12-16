@@ -1,0 +1,24 @@
+grid01:
+  source: geojson/grid01.geojson
+  minzoom: 1
+  maxzoom: 5
+grid05:
+  source: geojson/grid05.geojson
+  minzoom: 1
+  maxzoom: 5
+grid10:
+  source: geojson/grid10.geojson
+  minzoom: 1
+  maxzoom: 5
+grid15:
+  source: geojson/grid15.geojson
+  minzoom: 1
+  maxzoom: 5
+grid20:
+  source: geojson/grid20.geojson
+  minzoom: 1
+  maxzoom: 5
+grid30:
+  source: geojson/grid30.geojson
+  minzoom: 1
+  maxzoom: 5
